@@ -1,0 +1,133 @@
+month,day,name,rank,checked
+1,1,Name of Jesus,lesser festival,no
+1,2,"Johann Konrad Wilhelm Löhe, pastor, renewer of the church, 1872",commemoration,no
+1,14,"Eivind Berggrav, Bishop of Oslo, 1959",commemoration,no
+1,15,"Martin Luther King Jr., renewer of society, martyr, 1968",commemoration,no
+1,17,"Antony of Egypt, renewer of the church, c. 356",commemoration,no
+1,17,"Pachomius, renewer of the church, 346",commemoration,no
+1,18,Confession of Peter,lesser festival,no
+1,19,"Henry, Bishop of Uppsala, martyr, 1156",commemoration,no
+1,25,Conversion of Paul,lesser festival,no
+1,26,"Timothy, Titus, and Silas, missionaries",commemoration,no
+1,27,"Lydia, Dorcas, and Phoebe, witnesses to the faith",commemoration,no
+1,28,"Thomas Aquinas, teacher, 1274",commemoration,no
+2,2,Presentation of Our Lord,lesser festival,no
+2,3,"Ansgar, Bishop of Hamburg, missionary to Denmark and Sweden, 865",commemoration,no
+2,5,"The Martyrs of Japan, 1597",commemoration,no
+2,14,"Cyril, monk, 869; Methodius, bishop, 885; missionaries to the Slavs",commemoration,no
+2,18,"Martin Luther, renewer of the church, 1546",commemoration,no
+2,23,"Polycarp, Bishop of Smyrna, martyr, 156",commemoration,no
+2,25,"Elizabeth Fedde, deaconess, 1921",commemoration,no
+3,1,"George Herbert, hymnwriter, 1633",commemoration,no
+3,2,"John Wesley, 1791; Charles Wesley, 1788; renewers of the church",commemoration,no
+3,10,"Harriet Tubman, 1913; Sojourner Truth, 1883; renewers of society",commemoration,no
+3,17,"Patrick, bishop, missionary to Ireland, 461",commemoration,no
+3,19,"Joseph, Guardian of Jesus",lesser festival,no
+3,21,"Thomas Cranmer, Bishop of Canterbury, martyr, 1556",commemoration,no
+3,22,"Jonathan Edwards, teacher, missionary to American Indians, 1758",commemoration,no
+3,24,"Oscar Arnulfo Romero, Bishop of El Salvador, martyr, 1980",commemoration,no
+3,25,Annunciation of Our Lord,lesser festival,no
+3,29,"Hans Nielsen Hauge, renewer of the church, 1824",commemoration,no
+3,31,"John Donne, poet, 1631",commemoration,no
+4,4,"Benedict the African, confessor, 1589",commemoration,no
+4,6,"Albrecht Dürer, 1528; Matthias Grünewald, 1529; Lucas Cranach, 1553; artists",commemoration,no
+4,9,"Dietrich Bonhoeffer, theologian, 1945",commemoration,no
+4,10,"Mikael Agricola, Bishop of Turku, 1557",commemoration,no
+4,19,"Olavus Petri, priest, 1552; Laurentius Petri, Bishop of Uppsala, 1573; renewers of the church",commemoration,no
+4,21,"Anselm, Bishop of Canterbury, 1109",commemoration,no
+4,22,Day of Creation,lesser festival,no
+4,23,"Toyohiko Kagawa, renewer of society, 1960",commemoration,no
+4,25,"Mark, Evangelist",lesser festival,no
+4,29,"Catherine of Siena, theologian, 1380",commemoration,no
+5,1,"Philip and James, Apostles",lesser festival,no
+5,2,"Athanasius, Bishop of Alexandria, 373",commemoration,no
+5,4,"Monica, mother of Augustine, 387",commemoration,no
+5,8,"Julian of Norwich, renewer of the church, c. 1416",commemoration,no
+5,9,"Nicolaus Ludwig von Zinzendorf, renewer of the church, hymnwriter, 1760",commemoration,no
+5,14,"Matthias, Apostle",lesser festival,no
+5,18,"Erik, King of Sweden, martyr, 1160",commemoration,no
+5,24,"Nicolaus Copernicus, 1543; Leonhard Euler, 1783; scientists",commemoration,no
+5,27,"John Calvin, renewer of the church, 1564",commemoration,no
+5,29,"Jiří Tranovský, hymnwriter, 1637",commemoration,no
+5,31,Visit of Mary to Elizabeth,lesser festival,no
+6,3,"The Martyrs of Uganda, 1886",commemoration,no
+6,3,"John XXIII, Bishop of Rome, 1963",commemoration,no
+6,7,"Seattle, chief of the Duwamish Confederacy, 1866",commemoration,no
+6,9,"Columba, 597; Aidan, 651; Bede, 735; renewers of the church",commemoration,no
+6,11,"Barnabas, Apostle",lesser festival,no
+6,14,"Basil the Great, Bishop of Caesarea, 379; Gregory of Nazianzus, Bishop of Constantinople, c. 389; Gregory, Bishop of Nyssa, c. 385; Macrina, teacher, c. 379",commemoration,no
+6,21,"Onesimos Nesib, translator, evangelist, 1931",commemoration,no
+6,24,John the Baptist,lesser festival,no
+6,25,"Presentation of the Augsburg Confession, 1530",commemoration,no
+6,25,"Philipp Melanchthon, renewer of the church, 1560",commemoration,no
+6,27,"Cyril, Bishop of Alexandria, 444",commemoration,no
+6,28,"Irenaeus, Bishop of Lyons, c. 202",commemoration,no
+6,29,"Peter and Paul, Apostles",lesser festival,no
+7,1,"Catherine Winkworth, 1878; John Mason Neale, 1866; hymn translators",commemoration,no
+7,3,"Thomas, Apostle",lesser festival,no
+7,6,"Jan Hus, martyr, 1415",commemoration,no
+7,11,"Benedict of Nursia, Abbot of Monte Cassino, c. 540",commemoration,no
+7,12,"Nathan Söderblom, Bishop of Uppsala, 1931",commemoration,no
+7,17,"Bartolomé de Las Casas, missionary to the Indies, 1566",commemoration,no
+7,22,"Mary Magdalene, Apostle",lesser festival,no
+7,23,"Birgitta of Sweden, renewer of the church, 1373",commemoration,no
+7,25,"James, Apostle",lesser festival,no
+7,28,"Johann Sebastian Bach, 1750; Heinrich Schütz, 1672; George Frederick Handel, 1759; musicians",commemoration,no
+7,29,"Mary, Martha, and Lazarus of Bethany",commemoration,no
+7,29,"Olaf, King of Norway, martyr, 1030",commemoration,no
+8,8,"Dominic, founder of the Order of Preachers (Dominicans), 1221",commemoration,no
+8,10,"Lawrence, deacon, martyr, 258",commemoration,no
+8,11,"Clare, Abbess of San Damiano, 1253",commemoration,no
+8,13,"Florence Nightingale, 1910; Clara Maass, 1901; renewers of society",commemoration,no
+8,14,"Maximilian Kolbe, 1941; Kaj Munk, 1944; martyrs",commemoration,no
+8,15,"Mary, Mother of Our Lord",lesser festival,no
+8,20,"Bernard, Abbot of Clairvaux, 1153",commemoration,no
+8,24,"Bartholomew, Apostle",lesser festival,no
+8,28,"Augustine, Bishop of Hippo, 430",commemoration,no
+8,28,"Moses the Black, monk, martyr, c. 400",commemoration,no
+9,2,"Nikolai Frederik Severin Grundtvig, bishop, renewer of the church, 1872",commemoration,no
+9,9,"Peter Claver, priest, missionary to Colombia, 1654",commemoration,no
+9,13,"John Chrysostom, Bishop of Constantinople, 407",commemoration,no
+9,14,Holy Cross Day,lesser festival,no
+9,16,"Cyprian, Bishop of Carthage, martyr, c. 258",commemoration,no
+9,17,"Hildegard, Abbess of Bingen, 1179",commemoration,no
+9,18,"Dag Hammarskjöld, renewer of society, 1961",commemoration,no
+9,20,"Nelson Wesley Trout, bishop, 1996",commemoration,no
+9,21,"Matthew, Apostle and Evangelist",lesser festival,no
+9,29,Michael and All Angels,lesser festival,no
+9,30,"Jerome, translator, teacher, 420",commemoration,no
+10,4,"Francis of Assisi, renewer of the church, 1226",commemoration,no
+10,4,"Theodor Fliedner, renewer of society, 1864",commemoration,no
+10,6,"William Tyndale, translator, martyr, 1536",commemoration,no
+10,7,"Henry Melchior Muhlenberg, pastor in North America, 1787",commemoration,no
+10,10,"Massie L. Kennard, renewer of the church, 1986",commemoration,no
+10,15,"Teresa of Ávila, teacher, renewer of the church, 1582",commemoration,no
+10,17,"Ignatius, Bishop of Antioch, martyr, c. 115",commemoration,no
+10,18,"Luke, Evangelist",lesser festival,no
+10,23,"James of Jerusalem, martyr, c. 62",lesser festival,no
+10,26,"Philipp Nicolai, 1608; Johann Heermann, 1647; Paul Gerhardt, 1676; hymnwriters",commemoration,no
+10,28,"Simon and Jude, Apostles",lesser festival,no
+10,31,Reformation Day,lesser festival,no
+11,1,All Saints Day,lesser festival,no
+11,2,"Daniel Payne, bishop, 1893",commemoration,no
+11,3,"Martín de Porres, renewer of society, 1639",commemoration,no
+11,7,"John Christian Frederick Heyer, 1873; Bartholomaeus Ziegenbalg, 1719; Ludwig Ingwer Nommensen, 1918; missionaries",commemoration,no
+11,11,"Martin of Tours, Bishop, 397",commemoration,no
+11,11,"Søren Aabye Kierkegaard, teacher, 1855",commemoration,no
+11,17,"Elizabeth of Hungary, renewer of society, 1231",commemoration,no
+11,23,"Clement, Bishop of Rome, c. 100",commemoration,no
+11,23,"Miguel Agustín Pro, martyr, 1927",commemoration,no
+11,24,"Justus Falckner, 1723; Jehu Jones, 1852; William Passavant, 1894; pastors in North America",commemoration,no
+11,25,"Isaac Watts, hymnwriter, 1748",commemoration,no
+11,30,"Andrew, Apostle",lesser festival,no
+12,2,"Dorothy Kazel, Ita Ford, Maura Clarke and Jean Donovan, martyrs of El Salvador, 1980",commemoration,no
+12,3,"Francis Xavier, missionary to Asia, 1552",commemoration,no
+12,4,"John of Damascus, theologian and hymnwriter, c. 749",commemoration,no
+12,6,"Nicholas, Bishop of Myra, c. 342",commemoration,no
+12,7,"Ambrose, Bishop of Milan, 397",commemoration,no
+12,13,"Lucy, martyr, 304",commemoration,no
+12,14,"John of the Cross, renewer of the church, 1591",commemoration,no
+12,20,"Katharina von Bora Luther, renewer of the church, 1552",commemoration,no
+12,26,"Stephen, Deacon and Martyr",lesser festival,no
+12,27,"John, Apostle and Evangelist",lesser festival,no
+12,28,"The Holy Innocents, Martyrs",lesser festival,no
